@@ -27,6 +27,7 @@ k3d cluster create mycluster -p "8080:8081@loadbalancer"
 ![](images/mongo1.PNG)
 
 You should see:
+
 ![](images/mongo2.PNG)
 
 * port `8080` is for the access to the front-end.
@@ -89,8 +90,7 @@ $ kubectl apply -f mongo-express.yaml
 ```
 $ kubectl get pod
 ```
-![](images/mongo7.PNG)
-
+![](images/mongo12.PNG)
 
 6. Verify that the app is working by typing to the url:
 
