@@ -6,7 +6,9 @@ The goal for this assignment is to deploy an application locally (*local compute
 The application has a database. The user will interact with the front-end in order to input or read data stored in the database.<br>
 The **database** is set up so that the front-end authenticate before accessing the back-end (wich is the database in this case).
 
-## 2. Architecture:
+## 2. Architecture/Topology:
+
+![](images/mongo15.PNG)
 
 ## 3. Software tools used:
 
