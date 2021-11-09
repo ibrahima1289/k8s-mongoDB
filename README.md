@@ -101,6 +101,8 @@ localhost:8080
 ```
 ![](images/mongo8.PNG)
 
+7. Now the database is ready.
+
 # Source:
 
 * This lab was from [Kura Labs](https://github.com/ibrahima1289/k8s-mongoDB/blob/main/K8s%20and%20MongoDB%20assignment.pdf).
