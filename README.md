@@ -2,7 +2,7 @@
 
 ## 1. Goal:
 
-The goal for this assignment is to deploy an application locally (*local computer is the host*) using **kubernetes**. <br>
+The goal for this assignment is to deploy an application locally (*local computer being the host*) using **kubernetes**. <br>
 The application has a database. The user will interact with the front-end in order to input or read data stored in the database.<br>
 The **database** is set up so that the front-end authenticate before accessing the back-end (wich is the database in this case).
 
